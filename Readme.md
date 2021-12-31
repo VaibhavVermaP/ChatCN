@@ -2,17 +2,17 @@
 	<ul><li>python3</li></ul>
 
 <h3>How to run server</h3>
-	- run server.bat
+	<ul><li>run server.bat</li></ul>
 
 <h3>How to run client</h3>
-	- run client.bat
+	<ul><li>run client.bat</li></ul>
 
 <h3>Choosing an encryption</h3>
-	-1 RSA with user selected primes(dont make the primes too big or too small)
-	-2 RSA with random primes
+	<ol><li>RSA with user selected primes(dont make the primes too big or too small)</li>
+	<li>RSA with random primes</li></ol>
 
 <h3>Important points</h3>
--make sure to give recievers public key (shown on recievers termnial)
--make sure server is running before starting client (ie enter clients public key in server first)
+<ul><li>make sure to give recievers public key (shown on recievers termnial)</li>
+<li>make sure server is running before starting client (ie enter clients public key in server first)</li>
 
--you may change `localhost` to the ip of the server if it is not being run on the same device
+<li>you may change `localhost` to the ip of the server if it is not being run on the same device</li></ul>
