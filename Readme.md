@@ -1,18 +1,18 @@
-<h1>Prerequisites</h1>
+<h3>Prerequisites</h3>
 	-python3
 
-How to run server
+<h3>How to run server</h3>
 	- run server.bat
 
-how to run client
+<h3>how to run client</h3>
 	- run client.bat
 
-Choosing an encryption
+<h3>Choosing an encryption</h3>
 	-1 RSA with user selected primes(dont make the primes too big or too small)
 	-2 RSA with random primes
-	-3 Blowfish(make sure your message is atleast 8 characters long)
 
+<h3>important points</h3>
 -make sure to give recievers public key (shown on recievers termnial)
 -make sure server is running before starting client (ie enter clients public key in server first)
 
--you may change 'localhost' to the ip of the server if it is not being run on the same device
+-you may change `localhost` to the ip of the server if it is not being run on the same device
