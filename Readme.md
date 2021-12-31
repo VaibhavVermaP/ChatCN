@@ -4,14 +4,14 @@
 <h3>How to run server</h3>
 	- run server.bat
 
-<h3>how to run client</h3>
+<h3>How to run client</h3>
 	- run client.bat
 
 <h3>Choosing an encryption</h3>
 	-1 RSA with user selected primes(dont make the primes too big or too small)
 	-2 RSA with random primes
 
-<h3>important points</h3>
+<h3>Important points</h3>
 -make sure to give recievers public key (shown on recievers termnial)
 -make sure server is running before starting client (ie enter clients public key in server first)
 
