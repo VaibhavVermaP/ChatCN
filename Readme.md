@@ -24,26 +24,16 @@
 
 <h3>Running through Terminal</h3>
 <ol><li>open directory in cmd/shell</li>
-<li>to run server use command 
+<li>to run server use command </li>
 	````
 	python server.py [port]
 	````
-	</li>
+	
 
-<li>to run client
-	```` 
-```
-Look! You can see my backticks.
-```
-```` use command 
+<li>to run client use command </li>
 	````
 	python client.py localhost [ip adress] [port]
 	````
-	</li></ol>
+	</ol>
 
 
-```` 
-```
-Look! You can see my backticks.
-```
-````
