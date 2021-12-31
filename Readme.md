@@ -30,16 +30,17 @@
 	````
 	</li>
 
-<li>to run client use command 
+<li>to run client
+	```` 
+```
+Look! You can see my backticks.
+```
+```` use command 
 	````
 	python client.py localhost [ip adress] [port]
 	````
 	</li></ol>
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+
 
 ```` 
 ```
