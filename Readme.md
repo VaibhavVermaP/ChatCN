@@ -1,4 +1,4 @@
-#Terminal Chat in Python with RSA
+<h1>Terminal Chat in Python with RSA</h1>
 
 <h3>Prerequisites</h3>
 	<ul><li>python3</li></ul>
