@@ -24,16 +24,16 @@
 
 <h3>Running through Terminal</h3>
 <ol><li>open directory in cmd/shell</li>
-<li>to run server use command </li>
-	````
-	python server.py [port]
-	````
-	
+<li>to run server use command 
+````
+		python server.py [port]
+````
+	</li>
 
-<li>to run client use command </li>
-	````
-	python client.py localhost [ip adress] [port]
-	````
-	</ol>
+<li>to run client use command 
+````
+		python client.py localhost [ip adress] [port]
+````
+	</li></ol>
 
 
