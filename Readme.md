@@ -8,8 +8,8 @@
 	<ul><li>run client.bat</li></ul>
 
 <h3>Choosing an encryption</h3>
-	<ol><li>RSA with user selected primes(dont make the primes too big or too small)</li>
-	<li>RSA with random primes</li></ol>
+	<ul><li>RSA with user selected primes(dont make the primes too big or too small)</li>
+	<li>RSA with random primes</li></ul>
 
 <h3>Important points</h3>
 <ul><li>make sure to give recievers public key (shown on recievers termnial)</li>
@@ -20,8 +20,16 @@
 
 <h3>Running through Terminal</h3>
 <ol><li>open directory in cmd/shell</li>
-<li>to run server use command ```python server.py [port]```</li>
+<li>to run server use command 
+	```
+	python server.py [port]
+	```
+	</li>
 
-<li>to run client use command ```python client.py localhost [ip adress] [port]```</li></ol>
+<li>to run client use command 
+	```
+	python client.py localhost [ip adress] [port]
+	```
+	</li></ol>
 
 
