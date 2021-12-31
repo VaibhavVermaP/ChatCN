@@ -1,5 +1,5 @@
 <h3>Prerequisites</h3>
-	-python3
+	<ul><li>python3</li></ul>
 
 <h3>How to run server</h3>
 	- run server.bat
