@@ -25,7 +25,7 @@
 <h3>Running through Terminal</h3>
 <ol><li>open directory in cmd/shell</li>
 <li>to run server use command 
-	>python server.py [port]
+>python server.py [port]
 </li>
 
 <li>to run client use command 
