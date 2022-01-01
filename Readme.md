@@ -1,6 +1,7 @@
 <h1>Terminal Chat in Python with RSA</h1>
 
 
+![FastChatDemo](https://user-images.githubusercontent.com/93963406/147853981-6cc5c56f-36f1-40c1-a09b-8d7a6f522e14.gif)
 
 https://user-images.githubusercontent.com/93963406/147853868-2fd4af2d-6878-4c22-be53-6d2c5864ca0c.mp4
 
